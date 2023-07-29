@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](./github-header-image.png)]
+![MasterHead](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Shivansh Charak</h1>
 <h3 align="center">I am a Passionate Open source and DevOps Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"/>
