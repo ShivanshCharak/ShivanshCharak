@@ -19,6 +19,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshCharak&hide_progress=false)
+![Shivansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivanshCharak&show_icons=true&theme=transparent)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
