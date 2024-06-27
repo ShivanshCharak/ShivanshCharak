@@ -18,7 +18,7 @@
 - 📫 How to reach me **shivansh17charak@gmail.com**
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshCharak&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshCharak&hide_progress=false)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
