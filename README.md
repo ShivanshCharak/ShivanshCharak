@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[Shivansh_Charak's_resume](https://github.com/user-attachments/files/21992902/Shivansh_Charak.s_resume.pdf)
 <h1 align="center">Hi 👋, I'm Shivansh Charak</h1>
 <h3 align="center">I am a Full stack and system design sexual</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"/>
@@ -9,6 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js, golang and system design**
 - My Portfolio [Portfolio](https://portfolio-seven-plum-47.vercel.app/)
+[Shivansh_Charak's_resume](https://github.com/user-attachments/files/21992902/Shivansh_Charak.s_resume.pdf)
 
 - 📝 I regularly write articles on [https://shivanshcharak.hashnode.dev/](https://shivanshcharak.hashnode.dev/)
 
