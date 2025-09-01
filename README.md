@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Shivansh Charak</h1>
-<h3 align="center">I am a Full stack and system design sexual</h3>
+<h3 align="center">I am a Full stack and system design enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"/>
 
 - 🔭 I’m currently working on **Enhancing my Skills in DevOps and Backend Devlopment**
