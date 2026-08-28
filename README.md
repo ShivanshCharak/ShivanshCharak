@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Enhancing my Skills in DevOps and Backend Devlopment**
 
 - 🌱 I’m currently learning **Next.js, golang and system design**
-- My Portfolio [Portfolio](https://portfolio-seven-plum-47.vercel.app/)
+-  [Portfolio](https://portfolio-ezod2mklm-shivanshcharaks-projects.vercel.app/)
 - [Resume](https://github.com/user-attachments/files/21992902/Shivansh_Charak.s_resume.pdf)
 
 - 📝 I regularly write articles on [https://shivanshcharak.hashnode.dev/](https://shivanshcharak.hashnode.dev/)
