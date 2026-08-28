@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js, golang and system design**
 -  [Portfolio](https://portfolio-ezod2mklm-shivanshcharaks-projects.vercel.app/)
-- [Resume](https://github.com/user-attachments/files/21992902/Shivansh_Charak.s_resume.pdf)
+- [Resume](https://drive.google.com/file/d/1Re4L9Dn1m8AcljyflY_rPoKjaWmd49uv/view?usp=sharing)
 
 - 📝 I regularly write articles on [https://shivanshcharak.hashnode.dev/](https://shivanshcharak.hashnode.dev/)
 
